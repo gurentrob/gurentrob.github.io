@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gurentrob.github.io/sitemap.html.gz
+Sitemap: https://gurentrob.github.io/app/sitemap.html.gz
+Sitemap: https://gurentrob.github.io/assets/sitemap.html.gz
+Sitemap: https://gurentrob.github.io/css/sitemap.html.gz
+Sitemap: https://gurentrob.github.io/includes/sitemap.html.gz
+Sitemap: https://gurentrob.github.io/item/sitemap.html.gz
+Sitemap: https://gurentrob.github.io/src/sitemap.html.gz
